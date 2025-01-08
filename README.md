@@ -2,6 +2,8 @@
 
 ## This Project aims to classify the document category using a given text to classify if the text is related to politics, tech, business or sports.
 
+![Application](https://github.com/sahermuhamed1/Text-Document-Classifier/blob/main/src/Application.png)
+
 
 # Dataset📊
 
