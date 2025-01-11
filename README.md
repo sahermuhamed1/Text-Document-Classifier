@@ -1,4 +1,4 @@
-# Text Doxument Classification using NLP, RNN and LSTM.🤖
+# Text Category Classification using NLP, RNN and LSTM.🤖
 
 ## This Project aims to classify the document category using a given text to classify if the text is related to politics, tech, business or sports.
 
